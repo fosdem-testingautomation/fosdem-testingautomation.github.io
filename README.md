@@ -4,12 +4,12 @@ This is the third year for the Testing/Automation dev room at [FOSDEM](https://f
 # What
 Since this is the third year we're hosting the Testing and Automation dev room, here are some ideas of what we would like to see, and what worked in prior years, they're just ideas though! Check out the [2013](https://archive.fosdem.org/2013/schedule/track/testing_and_automation/) and [2014](https://archive.fosdem.org/2014/schedule/track/testing_and_automation/) schedules for inspiration.
 
-Testing in the real, open source world
+### Testing in the real, open source world
 * War stories/strategies for testing large scale or complex projects
 * Tools that extend the ability to test low-level code
 * Projects that are introducing new/interesting ways of testing "systems"
 
-Cool Tools (good candidates for lightning talks)
+### Cool Tools (good candidates for lightning talks)
 * Explain/demo how your open source tool made developing quality software better
 * Combining projects/plugins/tools to build amazing things "Not enough people in the open source community know how to use $X, but here's a tutorial on how to use $X to make your project better."
 

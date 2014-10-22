@@ -17,9 +17,9 @@ Since this is the third year we're hosting the Testing and Automation dev room, 
 FOSDEM is hosted at [Université libre de Bruxelles in Brussels, Belgium](https://fosdem.org/2015/practical/transportation/). The Testing and Automation dev room is currently slated for Building H, room 1309, which seats ~145.
 
 # When
- * CFP Submission Deadline: 23:59 UTC, 1 December 2014
- * Schedule Announced: 15 December 2014
- * Presentations: 1 February 2015
+ * CFP Submission Deadline: **23:59 UTC, 1 December 2014**
+ * Schedule Announced: **15 December 2014**
+ * Presentations: **31 January and 1 February 2015**
 
 # How
 Please submit one (or more) 30-40 minute talk proposal(s) OR one (or more) 10 minute lightning talk proposal(s) by **23:59 UTC on December 1st 2014**. We will notify all those submitting proposals about their acceptance by December 15th 2014.

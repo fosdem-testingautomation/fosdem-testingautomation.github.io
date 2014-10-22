@@ -26,6 +26,8 @@ Please submit one (or more) 30-40 minute talk proposal(s) OR one (or more) 10 mi
 
 To submit a talk proposal (you can submit multiple proposals if you'd like) with [Pentabarf](https://penta.fosdem.org/submission/FOSDEM15), the FOSDEM paper submission system. Be sure to select `Testing and Automation` otherwise we won't see it!
 
+![Selecting Testing and Automation track](https://raw.githubusercontent.com/fosdem-testingautomation/fosdem-testingautomation.github.io/master/images/track_selection.png)
+
 You can create an account, or use an existing account if you already have one. 
 
 Please note: FOSDEM is a [FLOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software) community event, by and for the community, please ensure your topic is appropriate (i.e. this isn't the right forum for commercial product presentations)

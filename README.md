@@ -1,5 +1,8 @@
 # Why
-This is the third year for the Testing/Automation dev room at FOSDEM. This room is about creating better software through a focus on testing and automation at all layers of the stack. From creating libraries and end-user applications all the way down to packaging, distribution and deployment. Testing and automation is not isolated to a single toolchain, language or platform, there is much to learn and share regardless of background!
+This is the third year for the Testing/Automation dev room at [FOSDEM](https://fosdem.org/2015). This room is about creating better software through a focus on testing and automation at all layers of the stack. From creating libraries and end-user applications all the way down to packaging, distribution and deployment. Testing and automation is not isolated to a single toolchain, language or platform, there is much to learn and share regardless of background!
+
+# Where
+FOSDEM is hosted at [Université libre de Bruxelles in Brussels, Belgium](https://fosdem.org/2015/practical/transportation/). The Testing and Automation dev room is currently slated for Building H, room 1309, which seats ~145.
 
 # When
  * CFP Submission Deadline: 23:59 UTC, 1 December 2014

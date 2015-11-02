@@ -14,7 +14,7 @@ Since this is the fourth year we're hosting the Testing and Automation dev room,
 * Combining projects/plugins/tools to build amazing things "Not enough people in the open source community know how to use $X, but here's a tutorial on how to use $X to make your project better."
 
 # Where
-FOSDEM is hosted at [Université libre de Bruxelles in Brussels, Belgium](https://fosdem.org/2016/practical/transportation/). The Testing and Automation dev room is likely slated for Building H, room 1309, which seats ~145.
+FOSDEM is hosted at [Université libre de Bruxelles in Brussels, Belgium](https://fosdem.org/2016/practical/transportation/). The Testing and Automation dev room is currently slated for Building U, room 2.220, which seats ~290.
 
 # When
  * CFP Submission Deadline: **23:59 UTC, 30 November 2015**

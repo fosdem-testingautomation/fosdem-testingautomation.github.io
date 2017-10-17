@@ -8,7 +8,7 @@ platform, there is much to learn and share regardless of background!
 
 # What
 
-Since this is the fifth year we're hosting the Testing and Automation
+Since this is the sixth year we're hosting the Testing and Automation
 dev room, here are some ideas of what we would like to see, and what
 worked in prior years, they're just ideas though! Check out the
 [2013](https://archive.fosdem.org/2013/schedule/track/testing_and_automation/),
